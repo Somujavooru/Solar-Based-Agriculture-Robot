@@ -49,3 +49,24 @@ It uses ESP8266 and Firebase for real-time remote control.
 
 Somashekhar Javooru
 Final Year ECE Student
+
+## 📷 Project Output
+
+### 🤖 Robot
+![Robot](images/robot.jpg)
+
+### 🌱 Grass Cutting
+![Grass Cutting](images/grass_cutting.jpg)
+
+### 🚧 Obstacle Detection
+![Obstacle Detection](images/obstacle_detection.jpg)
+
+---
+
+## 🔧 Block Diagram
+![Block Diagram](hardware/block_diagram.png)
+
+---
+
+## ⚙️ Schematic Diagram
+![Schematic](hardware/schematic_diagram.png)
